@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right,red,yellow);
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    top:15%;
+    letter-spacing: 0.5mm;
+}
+h1{
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+    letter-spacing: .5mm;
+    width:100%;
+    text-align: center;
+}
+h3{
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01mm;
+}
